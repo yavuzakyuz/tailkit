@@ -1,0 +1,12 @@
+{
+    "name": "create-tailkit",
+    "version": "0.0.7",
+    "description": "A starter kit for SvelteKit with TailwindCSS",
+    "license": "MIT",
+    "bin": {
+        "create-tailkit": "./setup.js"
+    },
+    "dependencies": {
+        "fs-extra": "^10.0.0"
+    }
+}
